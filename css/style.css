@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 25px;
   font-style: normal;
   font-variation-settings: "wdth" 100;
   min-height: 100vh;  
@@ -35,4 +35,5 @@ html {
   padding: 0 20px;
   line-height: 50px;
   transition: 0.3s;
+}
 }
