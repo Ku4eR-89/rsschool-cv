@@ -1,8 +1,4 @@
-@media (max-width: 768px) {
-  .section {
-    width: 100%;
-  }
-}
+
 body {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
@@ -48,4 +44,15 @@ html {
 
 .section {
   width: 50%;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
